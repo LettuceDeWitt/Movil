@@ -47,7 +47,7 @@ public class Gato01 extends JFrame implements ActionListener {
         }
     }
 
-    // 🔹 Verificar ganador
+    //  Verificar ganador
     public void verificarGanador() {
         String[][] tablero = new String[3][3];
 
@@ -92,7 +92,7 @@ public class Gato01 extends JFrame implements ActionListener {
         }
     }
 
-    // 🔹 Mostrar ganador
+    //  Mostrar ganador
     public void ganador(String letra) {
         JOptionPane.showMessageDialog(this, "Ganó: " + letra);
 

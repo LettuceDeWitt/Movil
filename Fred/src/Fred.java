@@ -25,7 +25,7 @@ public class Fred extends JFrame {
 
             int index = i; // necesario para lambda
 
-            // 🔥 Evento con lambda
+            // Evento con lambda
             casillas[i].addActionListener(e -> {
                 prenderBoton(index);
             });
@@ -66,7 +66,7 @@ public class Fred extends JFrame {
         hilo.start();
     }
 
-    // 🔹 Método para prender botón al presionar
+    // Método para prender botón al presionar
     public void prenderBoton(int index) {
 
         Thread hilo = new Thread(() -> {

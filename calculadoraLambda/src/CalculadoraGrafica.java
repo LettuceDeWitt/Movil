@@ -44,7 +44,7 @@ public class CalculadoraGrafica extends JFrame {
         add(pOpciones);
         add(resultado);
 
-        // 🔥 TODO con lambdas
+        //  TODO con lambdas
 
         btnSumar.addActionListener(e -> {
             int n1 = Integer.parseInt(num1.getText());
