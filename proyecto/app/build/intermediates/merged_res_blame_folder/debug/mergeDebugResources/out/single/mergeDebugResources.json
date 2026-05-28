@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.pokeapijavaapp-debug-4:/layout_activity_pokemon.xml.flat",
+        "source": "com.example.pokeapijavaapp-main-6:/layout/activity_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokeapijavaapp-debug-4:/layout_activity_credits.xml.flat",
+        "source": "com.example.pokeapijavaapp-main-6:/layout/activity_credits.xml"
+    },
+    {
+        "merged": "com.example.pokeapijavaapp-debug-4:/layout_activity_pokemon_detail.xml.flat",
+        "source": "com.example.pokeapijavaapp-main-6:/layout/activity_pokemon_detail.xml"
+    },
+    {
+        "merged": "com.example.pokeapijavaapp-debug-4:/layout_item_pokemon.xml.flat",
+        "source": "com.example.pokeapijavaapp-main-6:/layout/item_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokeapijavaapp-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.example.pokeapijavaapp-main-6:/layout/activity_main.xml"
+    }
+]

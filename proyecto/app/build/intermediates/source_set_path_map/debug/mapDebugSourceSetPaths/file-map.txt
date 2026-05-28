@@ -1,0 +1,7 @@
+com.example.pokeapijavaapp-pngs-0 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/build/generated/res/pngs/debug
+com.example.pokeapijavaapp-resValues-1 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/build/generated/res/resValues/debug
+com.example.pokeapijavaapp-packageDebugResources-2 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.pokeapijavaapp-packageDebugResources-3 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.pokeapijavaapp-debug-4 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.pokeapijavaapp-debug-5 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/src/debug/res
+com.example.pokeapijavaapp-main-6 /home/duarlett/Descargas/PokeApiJavaApp_Fix3/app/src/main/res

@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+id btnAbrirApp
+id btnCreditos
+id btnDetalleRegresar
+id btnRegresar
+id edtBuscar
+id imgDetallePokemon
+id imgPokemon
+id listaPokemon
+id progressBar
+id spinnerTipo
+id txtDetalleNombre
+id txtDetalleNumero
+id txtDetalleTipos
+id txtNombre
+id txtNumero
+id txtTipos
+layout activity_credits
+layout activity_main
+layout activity_pokemon
+layout activity_pokemon_detail
+layout item_pokemon
+style AppTheme

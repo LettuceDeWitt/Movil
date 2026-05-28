@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E53935"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Poke API App"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Consulta, busca y filtra Pokémon"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        android:id="@+id/btnAbrirApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abrir App" />
+
+    <Button
+        android:id="@+id/btnCreditos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Créditos"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
